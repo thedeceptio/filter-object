@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "filter-values": "^0.4.1",
-    "glob-object": "^1.0.0",
+    "glob-object": "git+https://github.com:thedeceptio/filter-object.git",
     "isobject": "^3.0.0"
   },
   "devDependencies": {
